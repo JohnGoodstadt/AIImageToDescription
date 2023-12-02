@@ -1,5 +1,3 @@
-# AIImageToDescription
-
 # AI Image To Description
 
 Demonstrate how to use Google's labelling of an image. 
