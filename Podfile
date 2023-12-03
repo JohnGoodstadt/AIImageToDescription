@@ -7,11 +7,6 @@ target 'AIImageToDescription' do
 
 pod 'GoogleMLKit/ImageLabeling', '3.2.0'
 
-# pod 'GoogleMLKit/ImageLabelingCustom', '3.2.0'
-
-#pod 'GoogleMLKit/ImageLabelingCustom', '3.2.0'
-#pod 'GoogleMLKit/LinkFirebase', '3.2.0'
-
 end
 
 post_install do |installer|
